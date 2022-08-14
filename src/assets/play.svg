@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="143" >
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #392b65;
+        stroke-width: 3px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Retângulo_Arredondado_1" data-name="Retângulo Arredondado 1" class="cls-1" d="M30,12L143,61c7,3.189,5.523,18,0,18L30,137a10,10,0,0,1-10-10V22A10,10,0,0,1,30,12Z"/>
+</svg>

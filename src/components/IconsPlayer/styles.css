@@ -1,0 +1,22 @@
+.cls-1,
+.cls-2 {
+  fill: none;
+  stroke: var(--bg-component-light);
+  stroke-width: 4px;
+}
+
+.cls-2 {
+  fill-rule: evenodd;
+}
+
+.cls-3 {
+  fill: none;
+  stroke: var(--bg-component-light);
+  stroke-width: 4px;
+  fill-rule: evenodd;
+}
+
+svg, path {
+  cursor: pointer;
+  fill: var(--bg-component-light);
+}
